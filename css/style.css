@@ -64,10 +64,24 @@ h2 a {
     margin: 20px 0;
 }
 
+#additionalApplications{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    ;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
 #mainApplication img {
     display: flex;
     width: 500px;
     height: 300px;
+    border: 5px solid black;
 }
 
 footer{
@@ -94,3 +108,5 @@ footer #section2{
 footer #section2 a{
     color:black;
 }
+
+/* add code for sizing on mobile */
