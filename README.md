@@ -6,4 +6,4 @@
 # Usage
     Link to website: https://badgers93.github.io/Challenge02Badgers/
 
-![Screenshot of deployed website](
+![Screenshot of deployed website](./assets/screenshotChallenge02.png)
